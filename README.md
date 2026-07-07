@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Jesse's GitHub stats](https://github-stats-extended.vercel.app/api?username=jessebui)](https://github.com/stats-organization/github-stats-extended)
+[![top lang](https://github-stats-extended.vercel.app/api?username=jessebui)](https://github.com/stats-organization/github-stats-extended)
 
 
 <!--
